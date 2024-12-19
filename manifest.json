@@ -1,0 +1,20 @@
+{
+    "name": "Recetas Saludables",
+    "short_name": "Recetas",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+        {
+            "src": "images/icon-1200x1200.jpg",
+            "sizes": "04x04",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/icon-1400x966.png",
+            "sizes": "1400x966",
+            "type": "image/jpg"
+        }
+    ]
+}
